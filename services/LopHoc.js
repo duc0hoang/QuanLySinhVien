@@ -6,3 +6,5 @@ var lopHoc = function(){
 this.themSinhVien = function(sinhVien){
     console.log('Thêm sinh viên');
 }
+
+var a =1;
