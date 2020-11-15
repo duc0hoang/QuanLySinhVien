@@ -3,3 +3,6 @@ var lopHoc = function(){
     this.tenlop ='';
     
 }
+this.themSinhVien = function(sinhVien){
+    console.log('Thêm sinh viên');
+}
